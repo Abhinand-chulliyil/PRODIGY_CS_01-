@@ -23,7 +23,7 @@ This project is a Python program that encrypts and decrypts text using the Caesa
 Python 3.x
 Author
 Abhinand C
-LinkedIn Profile
+www.linkedin.com/in/abhinand-chulliyi
 
 License
 This project is licensed under the MIT License.
